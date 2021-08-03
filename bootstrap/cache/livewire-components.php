@@ -1,0 +1,17 @@
+<?php return array (
+  'admin.admin-add-category-component' => 'App\\Http\\Livewire\\Admin\\AdminAddCategoryComponent',
+  'admin.admin-add-product-component' => 'App\\Http\\Livewire\\Admin\\AdminAddProductComponent',
+  'admin.admin-category-component' => 'App\\Http\\Livewire\\Admin\\AdminCategoryComponent',
+  'admin.admin-dashboard-component' => 'App\\Http\\Livewire\\Admin\\AdminDashboardComponent',
+  'admin.admin-edit-category-component' => 'App\\Http\\Livewire\\Admin\\AdminEditCategoryComponent',
+  'admin.admin-product-component' => 'App\\Http\\Livewire\\Admin\\AdminProductComponent',
+  'cars-component' => 'App\\Http\\Livewire\\CarsComponent',
+  'cart-component' => 'App\\Http\\Livewire\\CartComponent',
+  'category-component' => 'App\\Http\\Livewire\\CategoryComponent',
+  'checkout-component' => 'App\\Http\\Livewire\\CheckoutComponent',
+  'details-component' => 'App\\Http\\Livewire\\DetailsComponent',
+  'header-search-component' => 'App\\Http\\Livewire\\HeaderSearchComponent',
+  'homecomponent' => 'App\\Http\\Livewire\\Homecomponent',
+  'search-component' => 'App\\Http\\Livewire\\SearchComponent',
+  'user.user-dashboard-component' => 'App\\Http\\Livewire\\User\\UserDashboardComponent',
+);
